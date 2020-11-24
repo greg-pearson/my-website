@@ -1,6 +1,6 @@
 ---
-title: I wrote a new Page!
+title: EvoGeno Lab
 output: html_document
 ---
 
-Very interesting information goes here.
+Go to this [link](https://greg-pearson.github.io/evo-geno-course/) for all the work I did in the EvoGeno course.
